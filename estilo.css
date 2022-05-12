@@ -7,11 +7,10 @@ body {
 }
 
 ::-webkit-scrollbar {
-    background: rgba(255, 255, 255, 0.535);
+    background: #000;
 }
 
 ::-webkit-scrollbar-thumb {
-    width: 500px;
     background: rgb(16, 115, 235);
     border-radius: 6px;
 }
